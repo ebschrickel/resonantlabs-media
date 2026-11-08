@@ -1,0 +1,127 @@
+{
+  "set": "NeuroRad intro shorts",
+  "date": "2026-11-07",
+  "scripts": "AI_OFFICE/PROJECTS/neurorad-education/shorts/2026-11-07-intro-shorts-scripts.md",
+  "items": [
+    {
+      "n": 1,
+      "file": "intro-01-meet-pixel-brooke.mp4",
+      "title": "Meet pixel Brooke",
+      "duration_s": 33.81,
+      "sha256": "6dfab04095400cc3c09a49492bb94b814a066ffe0aa59d8f32af219107c19e4a",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": false,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 2,
+      "file": "intro-02-not-just-fellows.mp4",
+      "title": "Not just for future neuroradiologists",
+      "duration_s": 28.45,
+      "sha256": "e69b4adb58203cc2fc84308d56ca384596edf82831405eeae8f781eed8539af4",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": false,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 3,
+      "file": "intro-03-find-it-on-mri.mp4",
+      "title": "Can you find it on the MRI?",
+      "duration_s": 28.76,
+      "sha256": "119030b6f674b7753f60b9974d303ce5dcd249394fae3e186be689e0e6df0dba",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": false,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 4,
+      "file": "intro-04-ask-the-question.mp4",
+      "title": "Ask the question",
+      "duration_s": 26.83,
+      "sha256": "29b095f95220d52b8ab6370ea1442210db83a40381db6a3c43f3ceca0361022e",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": false,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 5,
+      "file": "intro-05-pick-one-thing.mp4",
+      "title": "Pick one thing",
+      "duration_s": 29.62,
+      "sha256": "876589de3cd5bfd02aead5b5e4f85c8926df078db7bef51670b97fafd24c6d15",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": false,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 6,
+      "file": "intro-06-an-hour-with-me.mp4",
+      "title": "An hour with me",
+      "duration_s": 39.38,
+      "sha256": "f699c999ec39bc1b1aec48334e4d0f7bd0a8a4f999410951f9fa188548e8c4d8",
+      "spoken_cta": "NeuroRadTracts.com/sessions",
+      "sessions_cta": true,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 7,
+      "file": "intro-07-three-am-head-ct.mp4",
+      "title": "Three a.m. head CT",
+      "duration_s": 28.48,
+      "sha256": "9e2493b630fae1fea7d72626450828ee1f534f2d2eb7010a22e713642942584e",
+      "spoken_cta": "free module: NeuroRadTracts.com",
+      "sessions_cta": true,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 8,
+      "file": "intro-08-neuro-afternoon.mp4",
+      "title": "The neuro afternoon",
+      "duration_s": 33.74,
+      "sha256": "403d863430e37569c59c07c10e7a6924386c41c804a232048dc504b2f503b972",
+      "spoken_cta": "NeuroRadTracts.com",
+      "sessions_cta": true,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 9,
+      "file": "intro-09-fellows-caq.mp4",
+      "title": "Fellows, this one's for you",
+      "duration_s": 31.02,
+      "sha256": "b16697c442a6f28df6420b47a1f80b36a25e54edb16bf8aad3acefc77884024e",
+      "spoken_cta": "NeuroRadTracts.com/sessions",
+      "sessions_cta": true,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    },
+    {
+      "n": 10,
+      "file": "intro-10-is-neuro-for-me.mp4",
+      "title": "Is neuroradiology for me?",
+      "duration_s": 28.98,
+      "sha256": "77bafe0b266eac902b0258ccc1a2b075d99f41b8ee9c9956f6ae0160eea07698",
+      "spoken_cta": "start free: NeuroRadTracts.com",
+      "sessions_cta": true,
+      "format": "1080x1920 H.264/AAC 30fps",
+      "presenter": "pixel Dr. Brooke, lab coat, Hawaiian shirt; AI voice (Brooke profile 1b1014cc)",
+      "status": "rendered"
+    }
+  ]
+}
